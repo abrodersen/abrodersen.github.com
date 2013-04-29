@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | Aaron's Blog]]></title>
+  <link href="http://abrodersen.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://abrodersen.github.io/"/>
+  <updated>2013-04-29T15:00:16-05:00</updated>
+  <id>http://abrodersen.github.io/</id>
+  <author>
+    <name><![CDATA[Aaron Brodersen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This is Only a Test]]></title>
+    <link href="http://abrodersen.github.io/blog/2013/04/29/this-is-only-a-test/"/>
+    <updated>2013-04-29T14:44:00-05:00</updated>
+    <id>http://abrodersen.github.io/blog/2013/04/29/this-is-only-a-test</id>
+    <content type="html"><![CDATA[<h2>Hello, World!</h2>
+
+<p>A paragraph describing things. Test, test, test!</p>
+
+<p><code>
+$ sudo make me a sandwhich
+</code></p>
+]]></content>
+  </entry>
+  
+</feed>
